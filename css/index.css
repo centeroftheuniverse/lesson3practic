@@ -1,0 +1,17 @@
+h1{
+    color:red;
+}
+.slava{
+    background-color: yellow;
+    height: 20px;
+}
+.ukraini{
+    background-color: blue;
+    height: 20px;
+}
+#sl:hover{
+    background-color: yellow;
+}
+#uk:hover{
+    background-color: blue;
+}
